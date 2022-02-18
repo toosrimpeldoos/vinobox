@@ -1,0 +1,17 @@
+:root {
+  --swiper-theme-color: #003a32;
+}
+
+.swiper-pagination-bullet {
+  background: #f1e5b0 !important;
+  border-color: #f1e5b0;
+  border-radius: 6px !important;
+  width: 32px !important;
+  opacity: 1 !important;
+}
+.swiper-pagination-bullet-active {
+  background: #003a32 !important;
+}
+.swiper-pagination {
+  top: 2%;
+}
